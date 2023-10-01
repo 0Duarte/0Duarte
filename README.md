@@ -1,6 +1,6 @@
 ## Guilherme Oszika Duarte
 
-Sou de Santa Catarina, tenho 21 anos e sou graduado em Administração, atualmente estudo programação web, utilizando as tecnologias HTML, CSS e JavaScript, Bootstrap, React, VueJS, Vuetify e PHP. Gosto muito de projetos inovadores e criativos, que fazem a ponte entre negócios e tecnologia, nas horas vagas gosto de participar de eventos que estão inseridos no ecossistema de inovação local, como o Startup Weekend entre vários outros. 
+Sou de Santa Catarina, tenho 21 anos e sou graduado em Administração, atualmente estudo programação web através do curso DevInHouse do Senai, em parceria com a empresa Italiana Zucchetti, utilizando as tecnologias HTML, CSS e JavaScript, Bootstrap, React, VueJS, Vuetify e PHP. Gosto muito de projetos inovadores e criativos, que fazem a ponte entre negócios e tecnologia, nas horas vagas gosto de participar de eventos que estão inseridos no ecossistema de inovação local, como o Startup Weekend entre vários outros. 
   
 ## Principais tecnologias:
 
