@@ -1,27 +1,67 @@
-## Guilherme Oszika Duarte
 
-Sou de Santa Catarina, tenho 21 anos e sou graduado em Administração, atualmente estudo programação web através do curso DevInHouse do Senai, em parceria com a empresa Italiana Zucchetti, utilizando as tecnologias HTML, CSS e JavaScript, Bootstrap, React, VueJS, Vuetify e PHP. Gosto muito de projetos inovadores e criativos, que fazem a ponte entre negócios e tecnologia, nas horas vagas gosto de participar de eventos que estão inseridos no ecossistema de inovação local, como o Startup Weekend entre vários outros. 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Guilherme+Duarte!;" />
+</h1>
+
+<br/>
+<hr/>
+
+<h2 align="center"> Sobre mim 🙋🏻‍♂️</h2>
+<h3 align="center">Um desenvolvedor apaxionado por negócios inovadores</h3>
+<br/>
+
+
+<div align="center">
+ 
+ 21 anos, cursando engenharia da computação e graduado em Administração, com muita afinidade pela área analítica e financeira. Gosto muito de projetos inovadores e criativos, nas horas vagas gosto de participar de eventos que estão inseridos no ecossistema de inovação local. 
+ 
+<br/>
+
+ 📍  Brasil/Santa Catarina
+<br/>
+ 
+ 🔭 Atualmente atuando como freelancer em busca de uma **oportunidade**
+ 
+ 🌱 Estudando **Node, TypeScript, AWS...**
+ </div>
+
+<br/>
+
+<hr/>
+ 
+<h2 align="center">⚒️ Linguagens-Tecnologias-Ferramentas ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vue,react,javascript,typescript,bootstrap,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,php,laravel" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,postgresql,docker,vscode" /><br>
+
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/0Duarte/0Duarte/output/github-contribution-grid-snake.svg" />
   
-## Principais tecnologias:
+  <br/><br/><br/>
+</div>
 
-### Front-End:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
-<img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white">
-  
-### Back-End:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<hr/>
 
-### Banco de dados:  
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<h2 align="center">⚡ Ações ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 height=300 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=0Duarte&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 height=300 src="https://github-readme-stats-salesp07.vercel.app/api?username=0Duarte&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=0Duarte&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-## Contato:
+<br/><br/>
 
-<a href="mailto:guiduartesbs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/guilherme-oduarte/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<hr/>
+
+<br/>
