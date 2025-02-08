@@ -6,7 +6,7 @@
 <br/>
 <hr/>
 
-<h2 align="center"> Sobre mim 🙋🏻‍♂️</h2>
+<h2 align="center"> Sobre mim 🙋🏻‍♂️ - Atualmente usando BitBucket 😉</h2>
 <h3 align="center">Um desenvolvedor apaxionado por negócios inovadores</h3>
 <br/>
 
